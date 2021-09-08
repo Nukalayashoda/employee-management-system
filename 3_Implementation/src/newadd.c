@@ -1,14 +1,3 @@
-/**
- * file newadd.c
- * author your Meher
- * brief 
- * version 0.1
- * date 2021-04-21
- * 
- * Copyright (c) 2021
- * 
- */
-
 #include "../inc/Employee.h"
 #include <stdlib.h>
 #include <string.h>
