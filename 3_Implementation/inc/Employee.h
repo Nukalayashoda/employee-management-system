@@ -1,15 +1,3 @@
-/**
- * @file Employee.h
- * @author yukti shriya 
- * @brief 
- * @version 0.1
- * @date 2021-05-25
- * 
- * @copyright Copyright (c) 2021
- * 
- */
-
-
 #ifndef __EMP_H__
 #define __EMP_H__
 /**
